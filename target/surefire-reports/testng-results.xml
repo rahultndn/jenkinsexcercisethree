@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-15T14:53:39Z" name="com.mycompany.app.AppTest" finished-at="2018-06-15T14:53:39Z" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2018-06-15T14:53:39Z" name="Command line test" finished-at="2018-06-15T14:53:39Z" duration-ms="53">
+      <class name="com.mycompany.app.AppTest">
+        <test-method is-config="true" signature="setUpStreams()[pri:0, instance:com.mycompany.app.AppTest@4df50bcc]" started-at="2018-06-15T10:53:39Z" name="setUpStreams" finished-at="2018-06-15T10:53:39Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpStreams -->
+        <test-method signature="testAppConstructor()[pri:0, instance:com.mycompany.app.AppTest@4df50bcc]" started-at="2018-06-15T10:53:39Z" name="testAppConstructor" finished-at="2018-06-15T10:53:39Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppConstructor -->
+        <test-method signature="testAppMain()[pri:0, instance:com.mycompany.app.AppTest@4df50bcc]" started-at="2018-06-15T10:53:39Z" name="testAppMain" finished-at="2018-06-15T10:53:39Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppMain -->
+        <test-method is-config="true" signature="cleanUpStreams()[pri:0, instance:com.mycompany.app.AppTest@4df50bcc]" started-at="2018-06-15T10:53:39Z" name="cleanUpStreams" finished-at="2018-06-15T10:53:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpStreams -->
+      </class> <!-- com.mycompany.app.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.mycompany.app.AppTest -->
+</testng-results>
